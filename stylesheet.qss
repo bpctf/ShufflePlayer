@@ -1,0 +1,18 @@
+QLabel{
+    font-family: Freemono;
+    font-weight: bold;
+    font-size: 16px;
+}
+QWidget{
+    background-color: black;
+    border-radius: 10px;
+}
+QPushButton {
+    background-color: black;
+    color: white;
+    border: none;
+    font-family: monospace;
+    font-size: 20px;
+    font-weight: bold;
+}
+
